@@ -10,7 +10,7 @@
 
 [[main]]
   name = "Projects"
-  url = "#projects"
+  url = "projects"
   weight = 30
 
 [[main]]
@@ -18,7 +18,13 @@
   url = "publications"
   weight = 40
 
+[[main]]
+  name = "Presentations"
+  url = "presentations"
+  weight = 50
+
+
  [[main]]
     name = "CV"
-    url = "files/cv.pdf"
+    url = "files/luecke_cv.pdf"
     weight = 70
