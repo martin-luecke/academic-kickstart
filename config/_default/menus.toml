@@ -26,5 +26,5 @@
 
  [[main]]
     name = "CV"
-    url = "files/luecke_cv.pdf"
+    url = "https://github.com/martin-luecke/cv/blob/master/luecke_cv.pdf"
     weight = 70

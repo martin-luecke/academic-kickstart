@@ -24,14 +24,14 @@ interests: []
 #- Computational Linguistics
 #- Information Retrieval
 
-education:
-  courses:
-  - course: Msc in Computer Science
-    institution:  University of Münster 
-    year: 
-  - course: BSc in Computer Science
-    institution: University of Münster 
-    year: 
+#education:
+#  courses:
+#  - course: Msc in Computer Science
+#    institution:  University of Münster 
+#    year: 
+#  - course: BSc in Computer Science
+#    institution: University of Münster 
+#    year: 
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -40,7 +40,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: mailto:martin.luecke@ed.ac.uk
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/martin_luecke
@@ -66,4 +66,6 @@ user_groups:
 - Visitors
 ---
 
-This site is under construction. Almost everything is a placeholder right now.
+# In the future you will find a marvelous website about me. 
+##### right now it is under construction
+
